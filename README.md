@@ -7,7 +7,7 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Andrew</a> 👋
 </h3>
 
 <h2 align="center">
-I'm an iOS Developer 💻, Photographer 📸, and Designer 🎨!
+I'm an iOS Developer 💻, and Designer 🎨!
 </h2> 
 
 I love finding opportunities to create innovative and impactful apps that better the world 🌎 
