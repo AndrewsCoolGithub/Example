@@ -64,4 +64,4 @@ I love finding opportunities to create innovative and impactful apps that better
 ## 📈 GitHub Stats 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsCoolGithub&layout=compact)](https://github.com/yushi1007)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsCoolGithub&layout=compact)](https://github.com/AndrewsCoolGithub)
