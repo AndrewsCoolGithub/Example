@@ -10,7 +10,7 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Andrew</a> 👋
 I'm an iOS Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
-I love finding opportunities to create innovative and impactful apps that better the world 🌎 Learning how to best help people better their lives with art and technology is my passion.
+I love finding opportunities to create innovative and impactful apps that better the world 🌎 
 
 ### 🤝 Connect with me:
 
