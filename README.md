@@ -65,5 +65,3 @@ I love finding opportunities to create innovative and impactful apps that better
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewsCoolGithub&layout=compact)](https://github.com/yushi1007)
-
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=yushi1007.yushi1007)](https://www.yushi.dev/)
