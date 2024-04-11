@@ -31,7 +31,7 @@ I love finding opportunities to create innovative and impactful apps that better
 
 - 📱 Swift-UI
 - AWS
-- Systems Design
+- React-Native
 - Blockchain Development  
 
 ## 💼 Technical Skills
