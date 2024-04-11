@@ -29,7 +29,7 @@ I love finding opportunities to create innovative and impactful apps that better
 
 ## 🌱 I'm currently learning
 
-- 📱 React Native
+- 📱 Swift-UI
 - Firebase
 - Systems Design
 - TDD/DevOps  
