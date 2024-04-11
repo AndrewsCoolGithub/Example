@@ -36,14 +36,14 @@ I love finding opportunities to create innovative and impactful apps that better
 
 ## 💼 Technical Skills
 
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&color=764ABC)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=003B57)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
-![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=CC0000)
 ![](https://img.shields.io/badge/Code-Firebase-informational?style=flat&logo=Firebase&color=E34F26)
 ![](https://img.shields.io/badge/Code-CocoaPods-informational?style=flat&logo=CocoaPods&color=336791)
-![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=003B57)
+
 
 </br>
 
