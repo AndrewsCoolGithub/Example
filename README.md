@@ -3,11 +3,11 @@
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Yu</a> 👋
+Hi there, I'm <a href="" target="_blank" rel="noreferrer">Andrew</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Mobile Developer 💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
 I love the entire process of developing creative websites. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
