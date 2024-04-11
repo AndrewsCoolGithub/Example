@@ -23,17 +23,16 @@ I love finding opportunities to create innovative and impactful apps that better
 ## 🔭 I'm currently working on
 
 - My old projects
-- Restaurant Recommendation App (React-Native)
+- Event Platform App (Swift)
 - Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- My DSA skill
 
 ## 🌱 I'm currently learning
 
 - 📱 React Native
 - Firebase
-- React Context API
-- Styled Components  
+- Systems Design
+- TDD/DevOps  
 
 ## 💼 Technical Skills
 
@@ -44,7 +43,7 @@ I love finding opportunities to create innovative and impactful apps that better
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
-![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=SQLite&color=003B57)
 
 </br>
 
