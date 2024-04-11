@@ -42,7 +42,7 @@ I love finding opportunities to create innovative and impactful apps that better
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
 ![](https://img.shields.io/badge/Code-Ruby_on_Rails-informational?style=flat&logo=Ruby-On-Rails&color=CC0000)
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
+![](https://img.shields.io/badge/Code-CocoaPods-informational?style=flat&logo=CocoaPods&color=336791)
 ![](https://img.shields.io/badge/Code-Swift-informational?style=flat&logo=Swift&color=003B57)
 
 </br>
